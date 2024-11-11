@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+prophet
+pmdarima
+scikit-learn
+statsmodels
+tbats
+autots
+darts
+neuralprophet
