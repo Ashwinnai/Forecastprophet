@@ -10,3 +10,4 @@ tbats
 autots
 darts
 neuralprophet
+openpyxl
