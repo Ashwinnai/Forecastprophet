@@ -7,7 +7,7 @@ pmdarima
 scikit-learn
 statsmodels
 tbats
-autots
-darts
 neuralprophet
+lightgbm
+xgboost
 openpyxl
